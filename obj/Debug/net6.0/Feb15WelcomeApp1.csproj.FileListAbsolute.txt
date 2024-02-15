@@ -1,0 +1,14 @@
+F:\ASP\Feb15WelcomeApp1\Feb15WelcomeApp1\bin\Debug\net6.0\Feb15WelcomeApp1.exe
+F:\ASP\Feb15WelcomeApp1\Feb15WelcomeApp1\bin\Debug\net6.0\Feb15WelcomeApp1.deps.json
+F:\ASP\Feb15WelcomeApp1\Feb15WelcomeApp1\bin\Debug\net6.0\Feb15WelcomeApp1.runtimeconfig.json
+F:\ASP\Feb15WelcomeApp1\Feb15WelcomeApp1\bin\Debug\net6.0\Feb15WelcomeApp1.dll
+F:\ASP\Feb15WelcomeApp1\Feb15WelcomeApp1\bin\Debug\net6.0\Feb15WelcomeApp1.pdb
+F:\ASP\Feb15WelcomeApp1\Feb15WelcomeApp1\obj\Debug\net6.0\Feb15WelcomeApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP\Feb15WelcomeApp1\Feb15WelcomeApp1\obj\Debug\net6.0\Feb15WelcomeApp1.AssemblyInfoInputs.cache
+F:\ASP\Feb15WelcomeApp1\Feb15WelcomeApp1\obj\Debug\net6.0\Feb15WelcomeApp1.AssemblyInfo.cs
+F:\ASP\Feb15WelcomeApp1\Feb15WelcomeApp1\obj\Debug\net6.0\Feb15WelcomeApp1.csproj.CoreCompileInputs.cache
+F:\ASP\Feb15WelcomeApp1\Feb15WelcomeApp1\obj\Debug\net6.0\Feb15WelcomeApp1.dll
+F:\ASP\Feb15WelcomeApp1\Feb15WelcomeApp1\obj\Debug\net6.0\refint\Feb15WelcomeApp1.dll
+F:\ASP\Feb15WelcomeApp1\Feb15WelcomeApp1\obj\Debug\net6.0\Feb15WelcomeApp1.pdb
+F:\ASP\Feb15WelcomeApp1\Feb15WelcomeApp1\obj\Debug\net6.0\Feb15WelcomeApp1.genruntimeconfig.cache
+F:\ASP\Feb15WelcomeApp1\Feb15WelcomeApp1\obj\Debug\net6.0\ref\Feb15WelcomeApp1.dll
